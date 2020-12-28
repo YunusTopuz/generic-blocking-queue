@@ -1,6 +1,8 @@
 
 Bu ödevde jenerik bir queue (kuyruk) veri yapısı implementasyonu implemente edilmesi bekleniyor. Queue veri yapısı gerçek hayatta bildiğimiz, biletçilerin önünde oluşan kuyruklar gibi çalışır. Kuyruğa ilk giren veri kuyruktan ilk çıkar buna FIFO (first in first out) yaklaşımı denir. 
 
+![Queue](queue.png)
+
 Bu ödevdedeki teknik beklentiler aşağıdaki gibidir:
 * Ödev nesneye yönelik programlama prensipleri göze alınarak geliştirilmelidir
 * Queue her tipte veri depolamaya elverişli olacak şekilde jenerik olarak geliştirilmelidir
